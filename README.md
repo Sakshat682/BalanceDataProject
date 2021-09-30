@@ -11,13 +11,14 @@ Decision Tree Model on balance data from UCI -> [Dataset](https://archive.ics.uc
 4. Ask me in Comments to assign the issue to you.
 5. After that you can clone the repo of yours in your local system ```git clone https://Your/Repo/Name/``` and
 6. then make a dev branch using -> ``` git checkout -b dev``` 
-7. upload the project in your folder according to name.
-8. Update the the readme files of your project folder
-9. then add ```git add .``` and commit ```git commit -m "add project files" ``` all your work 
-10. to your origin/dev branch using -> ```git push -u origin dev```
-11. And then finally make A Pull Request by going to your github forked repo.
-12. Write a suitable title and comment in your Pull Request(PR).
-13. If Everything will be fine It'll get merge.
+7. upload the project in folder according to name.
+8. Your project files should contain a .gitignore file <I>(So that you don't have to upload redundant files like '.ipynb_checkpoints',etc)</I>. 
+9. Update the the readme files of your project folder
+10. then add ```git add .``` and commit ```git commit -m "add project files" ``` all your work 
+11. to your origin/dev branch using -> ```git push -u origin dev```
+12. And then finally make A Pull Request <I>(from your dev branch to my main branch)</I> by going to your github forked repo.
+13. Write a suitable title and comment in your Pull Request(PR).
+14. If Everything will be fine It'll get merge.
 
 ## Dataset Description
 1. Title: Balance Scale Weight & Distance Database
