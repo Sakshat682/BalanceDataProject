@@ -1,7 +1,7 @@
 ## BalanceScaleDecesionTree
 > A basic decesion tree to classify the dataset into balanced, left inclined, right inclined
 > Created 3 different trees with different accuracies
-> Deployed the first (the most basic) model using flask on heroku
+> Deployed the first (the most basic) model using flask on herokuapp
 ### Hosted at-
 https://lohit244balancescale.herokuapp.com/
 
