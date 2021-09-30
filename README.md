@@ -1,9 +1,19 @@
 # BalanceDataProject
 Task 1 - Build a decision Tree model
 
-# BalanceDataDT
+## BalanceDataDT
 Decision Tree Model on balance data from UCI -> [Dataset](https://archive.ics.uci.edu/ml/datasets/Balance+Scale)
 
+## Project Submission Guidlines:
+1. First Fork the Repo.
+2. Then go to issue section of my repo.
+3. Search the Issue with your name.
+4. Ask me in Comments to assign the issue to you.
+5. After that you can clone the repo of yours and 
+6. upload the project in your folder according to name.
+7. Update the the readme files of your project folder
+8. And then finally make A Pull Request.
+9. If Everything will be fine I'll merge it.
 
 ## Dataset Description
 1. Title: Balance Scale Weight & Distance Database
