@@ -9,11 +9,15 @@ Decision Tree Model on balance data from UCI -> [Dataset](https://archive.ics.uc
 2. Then go to issue section of my repo.
 3. Search the Issue with your name.
 4. Ask me in Comments to assign the issue to you.
-5. After that you can clone the repo of yours and 
-6. upload the project in your folder according to name.
-7. Update the the readme files of your project folder
-8. And then finally make A Pull Request.
-9. If Everything will be fine I'll merge it.
+5. After that you can clone the repo of yours in your local system ```git clone https://-------``` and
+6. then make a dev branch using -> ``` git checkout -b dev``` 
+7. upload the project in your folder according to name.
+8. Update the the readme files of your project folder
+9. then add ```git add .``` and commit ```git commit -m "add project files" ``` all your work 
+10. to your origin/dev branch using -> ```git push -u origin dev```
+11. And then finally make A Pull Request by going to your github forked repo.
+12. Write a suitable title and comment in your Pull Request(PR).
+13. If Everything will be fine It'll get merge.
 
 ## Dataset Description
 1. Title: Balance Scale Weight & Distance Database
