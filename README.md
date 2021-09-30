@@ -9,7 +9,7 @@ Decision Tree Model on balance data from UCI -> [Dataset](https://archive.ics.uc
 2. Then go to issue section of my repo.
 3. Search the Issue with your name.
 4. Ask me in Comments to assign the issue to you.
-5. After that you can clone the repo of yours in your local system ```git clone https://-------``` and
+5. After that you can clone the repo of yours in your local system ```git clone https://Your/Repo/Name/``` and
 6. then make a dev branch using -> ``` git checkout -b dev``` 
 7. upload the project in your folder according to name.
 8. Update the the readme files of your project folder
