@@ -4,7 +4,8 @@ Task 1 - Build a decision Tree model
 ## BalanceDataDT
 Decision Tree Model on balance data from UCI -> [Dataset](https://archive.ics.uci.edu/ml/datasets/Balance+Scale)
 
-## Project Submission Guidelines: (Don't use Github GUI at all, do all work in CLI mode (except for Pull Request))
+## Project Submission Guidelines: 
+<b>Don't use Github GUI at all, do all work in CLI mode (except for making Pull Request)</b>
 1. First Fork the Repo.
 2. Then go to issue section of my repo.
 3. Search the Issue with your name.
